@@ -1,0 +1,59 @@
+body{
+  background-color: #41B3A3;
+}
+.head1{
+  display: block;
+  color: black;
+  margin-left: 550px;
+  margin-top: 50px;
+  font-size: 60px;
+}
+.head4{
+  margin-left: 550px;
+}
+.div1{
+  border: 1px black;
+  margin-left: 600px;
+
+}
+.div2{
+}
+.b1{
+  margin-top: 50px;
+  background-color:  black;
+  border: 1px black;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  display: block;
+  vertical-align: middle;
+  font-size: 20px;
+  width: 250px;
+  margin-left: 600px;
+}
+.b2{
+  margin-top: 50px;
+  background-color:  black;
+  border: 1px black;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  display: block;
+  vertical-align: middle;
+  margin-left: 600px;
+  font-size: 20px;
+  width: 250px;
+}
+.b3{
+  margin-top: 50px;
+  background-color: black;
+  border: 1px black;
+  color: white;
+  padding: 10px 24px;
+  width: 250px;
+  cursor: pointer;
+  display: block;
+  vertical-align: middle;
+  font-size: 20px;
+  margin-left: 600px;
+}
