@@ -1,0 +1,12 @@
+Customer_id,Customer_name,DOB,Marital_status,Address,Gender,Email_id,Agent_code,Password
+201,Surya,1990-09-14,M,"#10,3rd main,Bengaluru",Male,surya360@gmail.com,101,surya
+202,Max,1990-09-15,NM,"#22,1st main,Bengaluru",Male,supermax@gmail.com,105,max
+203,Steve,1990-09-16,M,"#12,5th main,Bengaluru",Male,stevelol@gmail.com,104,steve
+204,Lewis,1990-09-17,NM,"#2,1st main,Bengaluru",Male,lewisgoat@gmail.com,104,lewis
+205,Charles,1990-09-18,NM,"#852,2nd main,Bengaluru",Male,charlesleclerc@gmail.com,103,charles
+206,Daniel,1990-09-19,NM,"#55,2nd main,Bengaluru",Male,dannyricomg@gmail.com,101,daniel
+207,Virat,1990-09-20,M,"#222,4th main,Bengaluru",Male,kingvk@gmail.com,102,virat
+208,Sindhu,1990-09-21,NM,"#11,1st main,Bengaluru",Female,sindhupv@gmail.com,102,sindhu
+209,Harmanpreet,1990-09-22,NM,"#38,1st main,Bengaluru",Female,harman@gmail.com,102,harmanpreet
+210,Sainz,1990-09-23,NM,"#29,1st main,Bengaluru",Male,sainzsmoothop@gmail.com,104,sainz
+211,Rohit,1990-09-24,M,"#45,45th main,Bengaluru",Male,rohitman@gmail.com,105,rohit
