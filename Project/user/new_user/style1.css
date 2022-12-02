@@ -1,0 +1,47 @@
+.head1{
+  font-size: 50px;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+body{
+  background-color: #85C1E9;
+}
+.div1{
+  margin-left: 600px;
+}
+.d1{
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.d2{
+  margin-top:  20px;
+}
+.d3{
+  margin-bottom: 20px;
+}
+.b1{
+  margin-top: 50px;
+  background-color:  black;
+  border: 1px black;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  display: block;
+  vertical-align: middle;
+  font-size: 20px;
+  width: 250px;
+  margin-left: 600px;
+}
+.b2{
+  margin-top: 50px;
+  background-color:  black;
+  border: 1px black;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  display: block;
+  vertical-align: middle;
+  margin-left: 600px;
+  font-size: 20px;
+  width: 250px;
+}
